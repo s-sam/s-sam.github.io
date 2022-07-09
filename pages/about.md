@@ -2,7 +2,7 @@
 layout: page
 title: Who is she? 
 permalink: /about/
-feature-img: "assets/img/header/HebdenBridgeForest.jpg"
+feature-img: "assets/img/header/SallyInDarwen.jpg"
 tags: [Sally Sam]
 ---
 
