@@ -6,6 +6,8 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Sally Sam]
 ---
 
+[![Code and Stuff at the BBC in Salford, Manchester](https://github.com/s-sam/s-sam.github.io/blob/master/assets/img/about/NikkiGrahameWhoIsShe.gif?raw=true)]
+
 # Python, nature and geeking out
 
 Hello, I'm Sally 💃🏿! I grew up in Birmingham, UK and lived in Cardiff, Manchester, Darwen and Leeds. I have now settled in the beautiful Hebden Bridge where the photo above was taken. If you get the chance to visit, be very quiet and you might spot the local roe deer.
