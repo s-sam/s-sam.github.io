@@ -7,6 +7,6 @@ gallery_path: "assets/img/pexels"
 tags: [Interests]
 ---
 
-If anything interests you or you'd like a natter, please contact me using the buttons at the bottom of the page 😊.
+If anything interests you and you'd like a natter, feel free to contact me using the buttons at the bottom of the page 😊.
 
 {% include gallery.html gallery_path=page.gallery_path %}
