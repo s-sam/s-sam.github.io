@@ -9,7 +9,7 @@ tags: [Sally Sam]
 ![Gif of Nikki Grahame saying "Who is she?"](https://github.com/s-sam/s-sam.github.io/blob/master/assets/img/about/NikkiGrahameWhoIsShe.gif?raw=true)
 
 # Sally Sam, Data Scientist
-## Python, nature and geeking out
+## Python, nature and a dark sense of humour!
 
 Hello, I'm Sally 💃🏿! I grew up in Birmingham, UK and lived in Cardiff, Manchester, Darwen and Leeds. I have now settled in the beautiful Hebden Bridge where the photo above was taken. If you get the chance to visit, be very quiet and you might spot the local roe deer.
 
