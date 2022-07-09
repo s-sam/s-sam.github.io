@@ -3,7 +3,7 @@ layout: page
 title: Who is she?
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-<!-- tags: [Page] -->
+tags: [Page]
 ---
 
 Python, nature and geeking out
