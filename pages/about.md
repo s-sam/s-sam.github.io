@@ -19,7 +19,7 @@ In the week, you might find me at my local High Intesity fitness class and/or wi
 
 If you'd like to have a natter, feel free to contact me using the buttons at the bottom of the page 😊.
 
-If you're not quite sure yet, have a look at my [interests](https://s-sam.github.io/interests/) to see if we have anything in common!
+Have a look at my [interests](https://s-sam.github.io/interests/) to see what we have in common.
 
 <br><br><br>
 [![Code and Stuff at the BBC in Salford, Manchester](https://github.com/s-sam/s-sam.github.io/blob/master/assets/img/about/CodeAndStuffBBC.png?raw=true)](https://www.facebook.com/codeandstuff.manc/photos/a.2166037316775325/5293111637401195/)
