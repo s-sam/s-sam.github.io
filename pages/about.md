@@ -1,14 +1,15 @@
 ---
 layout: page
-title: About
+title: Who is she?
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [Page]
+<!-- tags: [Page] -->
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Python, nature and geeking out
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Grew up in Birmingham, UK and lived in Cardiff, Manchester, Darwen and Leeds. I have now settled in the beautiful Hebden Bridge which is where the photo above was taken. If you get the chance to visit, be very quiet and you might spot the local roe deer.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+When I'm not coding in Python, you can usually find me out in nature avoiding pythons. I'm either on a hike, rock climbing or camping 🏕. My favourite places to go are Llanberis and Criccieth in North Wales. I love exploring so recommendations are very welcome! Next on my list is to visit [Rufford Ford](https://goo.gl/maps/Yxwb7Ku65RvFtxh29). Take a look at the videos online if you've not heard of it yet, there is something mesmirising about it.
+
+In the week, you might find me at my local High Intesity fitness class and/or with a beer in my hand. They're not mutually exclusive but I wouldn't recommend it! I'm also really grateful to [Code and Stuff](https://codeandstuff-manchester.github.io/) who organise coding and networking open sessions for women and non-binary developers in Manchester. The highlight of my week!
