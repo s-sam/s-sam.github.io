@@ -17,9 +17,9 @@ When I'm not coding in Python, you can find me in nature avoiding pythons. I'm e
 
 In the week, you might find me at my local High Intesity fitness class and/or with a beer in my hand. They're not mutually exclusive but I wouldn't recommend it! I'm also really grateful to [Code and Stuff](https://codeandstuff-manchester.github.io/) who organise coding and networking open sessions for women and non-binary developers in Manchester. The highlight of my week!
 
-If you'd like to have a natter, feel free to contact me using the buttons at the bottom of the page 😊.
+Have a look at my [interests](https://s-sam.github.io/interests/) to see what else we have in common.
 
-Have a look at my [interests](https://s-sam.github.io/interests/) to see what we have in common.
+If you'd like to have a natter, feel free to contact me using the buttons at the bottom of the page 😊.
 
 <br><br><br>
 [![Code and Stuff at the BBC in Salford, Manchester](https://github.com/s-sam/s-sam.github.io/blob/master/assets/img/about/CodeAndStuffBBC.png?raw=true)](https://www.facebook.com/codeandstuff.manc/photos/a.2166037316775325/5293111637401195/)
