@@ -4,7 +4,7 @@ url: "https://s-sam.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Sally Sam, Data Scientist                                    # site's title
-description: "Sally, Sam Data Scientist"      # used by search engines
+description: "Sally Sam, Data Scientist"      # used by search engines
 avatar:                          # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
