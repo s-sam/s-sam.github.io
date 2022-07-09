@@ -2,7 +2,7 @@
 layout: page
 title: Who is she? 
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/HebdenBridge.jpg"
 tags: [Sally Sam]
 ---
 
